@@ -1,0 +1,6 @@
+@DbOperation_Entity_Framework_HostAddress = http://localhost:5016
+
+GET {{DbOperation_Entity_Framework_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
